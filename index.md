@@ -4,7 +4,7 @@
 
 ### PRoduct, Project, and Program Management   
 
-[Custome Robotics](/sample_page)
+[Custom Robotics](/sample_page)
 <img src="images/custom robotics.jpg?raw=true"/>
 
 ---
