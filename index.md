@@ -1,9 +1,6 @@
 ## Expereince & Projects
 
 ---
-
-### 
-
 [Custom Robotics](/sample_page)
 <img src="images/custom robotics.jpg?raw=true"/>
 
