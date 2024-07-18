@@ -2,18 +2,18 @@
 
 ---
 
-### SISU Custom Robotics | Product Manager  
+### PRoduct, Project, and Program Management   
 
 [Custome Robotics](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/custom robotics.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Moxi the Hospital Robot](/pdf/sample_presentation.pdf)
+<img src="images/Moxi.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Medical Devices and Robotic Systems](http://example.com/)
+<img src="images/davinci.jpg?raw=true"/>
 
 ---
 
