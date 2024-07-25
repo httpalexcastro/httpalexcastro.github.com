@@ -1,7 +1,7 @@
 ## Expereince & Projects
 
 ---
-[Custom Robotics](/SISU)
+[Custom Robotics](/SISU.md)
 <img src="images/custom robotics.jpg?raw=true"/>
 
 ---
