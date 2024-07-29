@@ -14,28 +14,27 @@ In addition to my responsibilities as an Operations Manager some of my other res
 * Coordinated and executed all implementation projects, digitally mapping out facilities, driving A/B testing, and executing QA validation of hardware and software.
 * Conducted surveys, analyzed product system logs, and performed user research campaigns to better understand trends and pain points from our many stakeholders across the country.
 
+<img src="images/Diligentgif.gif?raw=true"/>
+
 <img src="images/moxiintuitive.jpg?raw=true"/>
 
-<img src="images/AMAT.png?raw=true"/>
+<img src="images/cedars.jpg?raw=true"/>
 
-<img src="images/teslabot.jpg?raw=true"/>
-
-<img src="images/kukaomni.jpg?raw=true"/>
+<img src="images/moxi2.jpg?raw=true"/>
 
 
 
 ## __Technologies Used__:
-* SolidWorks PDM
-* Oracle Netsuite
-* Atlassian Jira & Confluence
+* Atlassian Jira
+* SalesForce 
 * Google Suite
-* Windows Microsoft Suite
-* Product Plan
+* Google Cloud
+* Linux
 * Coda.io
-* Aha!
+* Rocos
 * SmartSheets
-* Trello
-* Miro
+* Ionic.io
+* SQL
 
 
 
