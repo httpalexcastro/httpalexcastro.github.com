@@ -20,8 +20,6 @@ In addition to my responsibilities as an Operations Manager some of my other res
 
 <img src="images/cedars.jpg?raw=true"/>
 
-<img src="images/moxi2.jpg?raw=true"/>
-
 
 
 ## __Technologies Used__:
