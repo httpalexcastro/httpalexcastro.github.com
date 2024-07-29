@@ -5,7 +5,7 @@
 <img src="images/custom robotics.jpg?raw=true"/>
 
 ---
-[Moxi the Hospital Robot](/pdf/sample_presentation.pdf)
+[Moxi the Hospital Robot](/Diligent)
 <img src="images/Moxi.jpg?raw=true"/>
 
 ---
