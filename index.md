@@ -12,7 +12,6 @@
 [Medical Devices and Robotic Systems](http://example.com/)
 <img src="images/davinci.jpg?raw=true"/>
 
----
 
 
 
