@@ -14,11 +14,11 @@ In addition to my responsibilities as a Client Support Specialist some of my oth
 * Managed the onboarding process for new products, ensuring smooth integration into clinical environments.
 * Launched the flagship and largest clinical support account in Texas for Karl Storz in the US.
 
-<img src="images/Stoz1.jpg?raw=true"/>
+<img src="images/stoz1.jpg?raw=true"/>
 
 <img src="images/davinci2.jpg?raw=true"/>
 
-<img src="images/davinci1.jpg?raw=true"/>
+<img src="images/davinci3.jpg?raw=true"/>
 
 
 
