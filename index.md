@@ -9,7 +9,7 @@
 <img src="images/Moxi.jpg?raw=true"/>
 
 ---
-[Medical Devices and Robotic Systems](http://example.com/)
+[Medical Devices and Robotic Systems](/Storz)
 <img src="images/davinci.jpg?raw=true"/>
 
 
