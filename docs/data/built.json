@@ -31,9 +31,9 @@
       "I laid the site out as an Instagram-style profile page: an avatar, username, bio, and quick-action buttons for texting, emailing, and jumping to Instagram, followed by a payment methods row (Zelle, Venmo, and Cashapp, each with its own icon, handle, and a scannable QR code for Zelle) and a three-tab navigation bar for Portfolio, Packages, and Book, so the page never feels like one long scroll.",
       "The Book tab is a full month-by-month calendar, styled after the native iOS Calendar app, that visitors can browse from the current month all the way out to 2037. Days Mauricio hasn't marked available are automatically greyed out and unclickable. Picking an open day surfaces the specific times he's offered, and submitting a request sends a pre-filled email straight to him with all the details."
     ],
-    "technologies": ["HTML5", "CSS3", "Javascript", "GitHub REST API", "GitHub"]
+    "technologies": ["HTML5", "CSS3", "Javascript", "GitHub REST API", "GitHub"],
     "link": "",
-    "images": ["images/built/Untitled_Artwork.PNG", "images/built/IMG_0508.JPG", "images/built/IMG_0519.JPG", "images/built/IMG_2290.jpg", "images/built/IMG_2289.jpg", "images/built/IMG_2285.jpg", "images/built/IMG_2286.jpg", "images/built/IMG_2267.jpg", "images/built/IMG_2288.jpg", "images/built/IMG_2287.jpg" ]
+    "images": ["images/built/Mauri.jpeg", "images/built/Mauri2.png", "images/built/Mauri3.png", "images/built/Mauri4.png"]
   },
   {
     "id": "bwe",
