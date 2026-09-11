@@ -22,6 +22,20 @@
     "images": ["images/built/PGM0.png", "images/built/PGM1.png", "images/built/PGM2.png", "images/built/PGM3.png", "images/built/PGM4.png", "images/built/PGM5.png", "images/built/PGM6.png"]
   },
   {
+    "id": "Maurifoto",
+    "name": "Mauri Foto Booking Site",
+    "site": "https://gonzalezmauri.github.io/maurifoto/",
+    "date": "2026",
+    "summary": "A photography portfolio and booking website for photographer Mauricio Gonzalez, styled to feel like an Instagram profile. It's a fully static site with no backend server or database, everything from photo galleries to booking availability is managed through a built-in admin panel that saves directly to the site's own GitHub repository. I built the whole thing as a single self-contained HTML file and deployed it on GitHub Pages.",
+    "fullDescription": [
+      "I laid the site out as an Instagram-style profile page: an avatar, username, bio, and quick-action buttons for texting, emailing, and jumping to Instagram, followed by a payment methods row (Zelle, Venmo, and Cashapp, each with its own icon, handle, and a scannable QR code for Zelle) and a three-tab navigation bar for Portfolio, Packages, and Book, so the page never feels like one long scroll.",
+      "The Book tab is a full month-by-month calendar, styled after the native iOS Calendar app, that visitors can browse from the current month all the way out to 2037. Days Mauricio hasn't marked available are automatically greyed out and unclickable. Picking an open day surfaces the specific times he's offered, and submitting a request sends a pre-filled email straight to him with all the details."
+    ],
+    "technologies": ["HTML5", "CSS3", "Javascript", "GitHub REST API", "GitHub"]
+    "link": "",
+    "images": ["images/built/Untitled_Artwork.PNG", "images/built/IMG_0508.JPG", "images/built/IMG_0519.JPG", "images/built/IMG_2290.jpg", "images/built/IMG_2289.jpg", "images/built/IMG_2285.jpg", "images/built/IMG_2286.jpg", "images/built/IMG_2267.jpg", "images/built/IMG_2288.jpg", "images/built/IMG_2287.jpg" ]
+  },
+  {
     "id": "bwe",
     "name": "Before We Expire®",
     "site": "Work In Progress",
